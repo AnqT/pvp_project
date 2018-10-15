@@ -1,0 +1,12 @@
+com\controlmatic\posclient\models\productcatalog\ProductCatalogAdapter.class
+com\controlmatic\posclient\models\productcatalog\Products.class
+com\controlmatic\posclient\models\cardreader\PaymentCardResult.class
+com\controlmatic\posclient\models\productcatalog\ProductCatalogTest.class
+com\controlmatic\posclient\models\cardreader\Products.class
+com\controlmatic\posclient\models\cardreader\CombinedCardResult.class
+com\controlmatic\posclient\models\cashbox\CashBoxAdapter.class
+com\controlmatic\posclient\models\cardreader\BonusCardResult.class
+com\controlmatic\posclient\models\productcatalog\Product.class
+com\controlmatic\posclient\models\cardreader\CardReaderTest.class
+com\controlmatic\posclient\models\cashbox\CashBoxTest.class
+com\controlmatic\posclient\models\cardreader\CardReaderAdapter.class
